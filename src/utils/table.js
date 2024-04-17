@@ -1,0 +1,18 @@
+export const tableHead = [
+  'no',
+  'indate',
+  'status',
+  'host branch',
+  'member branch',
+  'claim no',
+  'provider name',
+  'covarage',
+  'member no',
+  'member name',
+  'vip number',
+  'corporate',
+  'customer group',
+  'gl no',
+  'card no',
+  'icd10',
+];
